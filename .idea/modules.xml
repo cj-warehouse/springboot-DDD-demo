@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springboot-DDD-demo.iml" filepath="$PROJECT_DIR$/springboot-DDD-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-ddd/springboot-ddd.iml" filepath="$PROJECT_DIR$/springboot-ddd/springboot-ddd.iml" />
     </modules>
   </component>
 </project>
