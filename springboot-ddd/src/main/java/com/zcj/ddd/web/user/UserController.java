@@ -32,7 +32,6 @@ public class UserController {
             @ApiImplicitParam(name = "sex",value = "性别",dataType = "String",readOnly = true),
     })
     public String selectUserByCondition(String username,String sex){
-        int i = 1 / 0;
         log.error(username + sex);
         return username + sex;
     }
