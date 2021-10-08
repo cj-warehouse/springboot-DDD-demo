@@ -36,6 +36,5 @@ public class Test {
         System.out.println("-------------------------------------");
         //java8
         list.stream().forEach( System.out::println);
-
     }
 }
